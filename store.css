@@ -1,0 +1,33 @@
+
+h1{
+    margin: auto;
+    padding: auto;
+    width: 20%;
+}
+.container{
+    display:inline;
+    margin: auto;
+    padding: auto;
+    width:20% ;
+}
+ul{
+    margin: auto;
+    padding: auto;
+    width:80% ;
+}
+li{
+    margin: auto;
+    padding: auto;
+    width: 80%;
+}
+div{
+    display:inline;
+    margin-left: 150px;
+    padding: auto;
+    width:20%;
+}
+
+#welcome{
+    color:red;
+
+}
